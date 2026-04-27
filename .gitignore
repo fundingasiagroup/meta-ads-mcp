@@ -31,3 +31,7 @@ debug/
 
 internal/
 uv.lock
+
+.env
+
+wrangler.json
